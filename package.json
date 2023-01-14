@@ -1,0 +1,19 @@
+{
+  "name": "fapp",
+  "version": "1.0.0",
+  "description": "This is a social networking plateform for finding the project partner....",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamshukla123/FAPP.git"
+  },
+  "author": "shivam shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamshukla123/FAPP/issues"
+  },
+  "homepage": "https://github.com/shivamshukla123/FAPP#readme"
+}
